@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;Age&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../CountDown" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../CountDown" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
