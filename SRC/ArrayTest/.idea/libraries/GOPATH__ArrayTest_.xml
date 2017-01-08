@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;ArrayTest&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../Age" />
+      <root url="file://$PROJECT_DIR$/../FunctionTest" />
+      <root url="file://$PROJECT_DIR$/../CountDown" />
+      <root url="file://$PROJECT_DIR$/../SwitchCase" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Age" />
+      <root url="file://$PROJECT_DIR$/../FunctionTest" />
+      <root url="file://$PROJECT_DIR$/../CountDown" />
+      <root url="file://$PROJECT_DIR$/../SwitchCase" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
