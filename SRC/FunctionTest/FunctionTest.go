@@ -5,8 +5,12 @@ import (
 )
 
 func main() {
-	number1:= 200
-	number2:= 30
+	var number1 int
+	var number2 int
+	fmt.Print("Enter number 1: ")
+	fmt.Scan(&number1)
+	fmt.Print("Enter number 2: ")
+	fmt.Scan(&number2)
 	fmt.Println(sumNumber(number1, number2))
 }
 func sumNumber(num1, num2 int) int{
